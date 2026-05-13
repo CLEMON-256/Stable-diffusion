@@ -19,10 +19,6 @@ For information on installing/configuring and using PyTriton please refer to thi
 If you'd like to run this code on Windows you will need to use WSL. Here is a helpul guide that can help you get started. [Link](https://medium.com/htc-research-engineering-blog/nvidia-docker-on-wsl2-f891dfe34ab)
 
 
-# 💻 Launch Your Software Development Career Today!  
-
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
-
 🚀 **Why Join?**  
 - 💼 **$70k+ starting salary potential**  
 - 🕐 **Self-paced:** Complete on your own time  
